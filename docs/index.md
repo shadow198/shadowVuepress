@@ -12,6 +12,9 @@ title: Home
 console.log('Hello World')
 ```
 
+- [All these options work!](#all-these-options-work)
+
+
 | Headings      | Are           | Centered    |
 | ------------- |:-------------:| -----:      |
 | left align    | centered      | right align |
