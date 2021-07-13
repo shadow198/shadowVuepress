@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 ### All these options work!
 [docs/contact](/contact) | 
 [docs/contact.md](/contact.md) |
