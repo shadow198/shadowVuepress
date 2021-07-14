@@ -4,6 +4,7 @@ const primarySidebar = [
 ]
 module.exports = {
   title: "Shadow Blog", // appended to all page titles
+  base: '/shadowVuepress/',
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
