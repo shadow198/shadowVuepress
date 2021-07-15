@@ -1,20 +1,27 @@
+name: CI
 
-name: GitHub Actions blog
-on:
+# 在main分支发生push事件时触发，已由master改为main。
+on: 
   push:
     branches:
       - master
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@master
+        uses: actions/checkout@v2 # If you're using actions/checkout@v2 - must set persist-credentials to false in most cases for the deployment to work correctly.
+        with:
+          persist-credentials: false
 
-      - name: Build and Deploy
-        uses: JamesIves/github-pages-deploy-action@4.1.4
-        env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BRANCH: gh-pages
-          FOLDER: .vuepress/dist
-          BUILD_SCRIPT: yarn install && yarn run docs:build
+      - name: Install and Build
+        run: |
+          yarn install
+          yarn run docs:build
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: docs/.vitepress/dist # The folder the action should deploy.
