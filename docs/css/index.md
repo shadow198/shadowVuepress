@@ -6,7 +6,7 @@
 ### [阮一峰 Grid布局](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
 ### [Chokcoco 博客](https://www.cnblogs.com/coco1s/)
 ### [张鑫旭](https://www.zhangxinxu.com/wordpress/)
-### [学习CSS布局](https://zh.learnlayout.com/)
+### [学习 CSS布局](https://zh.learnlayout.com/)
 
 ## 相关书籍
 
