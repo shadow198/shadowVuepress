@@ -13,6 +13,7 @@ module.exports = {
       { text: "CSS", link: "/css/" },
       { text: "Vue", link: "/vue/" },
       { text: "English", link: "/english/" },
+      { text: "读书笔记", link: "/book/" },
       { text: "开源项目", link: "/open-source/" },
       { text: "About", link: "/about/" },
     ],
