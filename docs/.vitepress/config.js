@@ -12,6 +12,7 @@ module.exports = {
       { text: "JS", link: "/js/" },
       { text: "CSS", link: "/css/" },
       { text: "Vue", link: "/vue/" },
+      { text: "react", link: "/react/" },
       { text: "English", link: "/english/" },
       { text: "读书笔记", link: "/book/" },
       { text: "开源项目", link: "/open-source/" },
