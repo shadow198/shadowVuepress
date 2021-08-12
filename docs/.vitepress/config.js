@@ -25,6 +25,10 @@ module.exports = {
       
       // we don't need to do anything to index
       // because the default sidebar is created via page headings
-    } 
+    },
+    repo: 'https://github.com/shadow198/shadowVuepress',
+    // 自定义仓库链接文字。默认从 `themeConfig.repo` 中自动推断为
+    // "GitHub"/"GitLab"/"Bitbucket" 其中之一，或是 "Source"。
+    repoLabel: 'GitHub'
   },
 };
