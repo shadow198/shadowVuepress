@@ -25,3 +25,4 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages # The branch the action should deploy to
           FOLDER: docs/.vitepress/dist # The folder the action should deploy.
+          BUILD_SCRIPT: npm install && npm run build && cd docs/.vuepress/dist && echo 'wangys.net' > CNAME && cd -
