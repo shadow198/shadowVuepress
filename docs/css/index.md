@@ -10,7 +10,6 @@
 - [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/zh-cn/)
 
 ## 工具类网站
-
 - [box-shadow example](https://getcssscan.com/css-box-shadow-examples)
 - [渐变 box-shadow 生成](https://www.cssmatic.com/)
 - [各种炫酷的图案的SGV生成器](https://app.haikei.app/)
@@ -18,6 +17,10 @@
 - [各种Hover效果](http://ianlunn.github.io/Hover/)
 - [各种类型的布局demo](https://csslayout.io/)
 
+### UI框架
+- [tailwind](https://www.tailwindcss.cn/docs)
+- [基于tailwind的UI框架](https://daisyui.com/)
+- [material-ui](https://material-ui.com/zh/)
 ## 原创笔记
 
 - [css颜色研究](./color.md)
