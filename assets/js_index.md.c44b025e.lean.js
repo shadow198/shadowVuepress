@@ -1,0 +1,1 @@
+import{o as e,c as r,d as a}from"./app.14b14af3.js";const t='{"title":"JS学习","description":"","frontmatter":{},"headers":[{"level":2,"title":"相关站点","slug":"相关站点"},{"level":2,"title":"相关书籍","slug":"相关书籍"}],"relativePath":"js/index.md","lastUpdated":1629092043749}',l={},i=a('',5);l.render=function(a,t,l,n,h,o){return e(),r("div",null,[i])};export default l;export{t as __pageData};
