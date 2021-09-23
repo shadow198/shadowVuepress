@@ -1,0 +1,1 @@
+import{o as p,c as a,d as e}from"./app.c44fe486.js";const o='{"title":"","description":"","frontmatter":{},"relativePath":"book/hao.md","lastUpdated":1632364800136}',t={},r=e("",38);t.render=function(e,o,t,d,C,i){return p(),a("div",null,[r])};export default t;export{o as __pageData};
