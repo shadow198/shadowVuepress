@@ -6,13 +6,8 @@ module.exports = {
   title: "Shadow Blog", // appended to all page titles
   themeConfig: {
     nav: [
-      { text: "Home", link: "/" },
-      { text: "Html", link: "/html/" },
-      { text: "JS", link: "/js/" },
-      { text: "CSS", link: "/css/" },
-      { text: "Vue", link: "/vue/" },
-      { text: "react", link: "/react/" },
-      { text: "WordPress", link: "/wordpress/" },
+      { text: "首页", link: "/" },
+      { text: "前端", link: "/fe/" },
       { text: "English", link: "/english/" },
       { text: "读书笔记", link: "/book/" },
       { text: "开源项目", link: "/open-source/" },
