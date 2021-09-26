@@ -1,1 +1,0 @@
-import{o as e,c as r,d as a}from"./app.c44fe486.js";const t='{"title":"英语学习","description":"","frontmatter":{},"headers":[{"level":2,"title":"视频课程","slug":"视频课程"}],"relativePath":"english/index.md","lastUpdated":1632364800136}',l={},i=a('',3);l.render=function(a,t,l,n,h,o){return e(),r("div",null,[i])};export default l;export{t as __pageData};
