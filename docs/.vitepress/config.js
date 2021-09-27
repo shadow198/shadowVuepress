@@ -4,6 +4,7 @@ const primarySidebar = [
 ]
 module.exports = {
   title: "Shadow Blog", // appended to all page titles
+  description: 'shadow的个人博客',
   themeConfig: {
     nav: [
       { text: "首页", link: "/" },
@@ -14,6 +15,7 @@ module.exports = {
           { text: "JavaScript", link: '/js/'},
           { text: "Vue", link: '/vue/'},
           { text: "React", link: '/react/'},
+          { text: "Node", link: '/node/'},
           { text: "WordPress", link: '/wordpress/'},
         ] 
       },
