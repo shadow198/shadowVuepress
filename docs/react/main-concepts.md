@@ -1,8 +1,8 @@
 # react
 
+## what
 
-##  what
->用于构建用户界面的 JavaScript 库
+> 用于构建用户界面的 JavaScript 库
 
 1. React 使创建交互式 UI 变得轻而易举。为你应用的每一个状态设计简洁的视图，当数据变动时 React 能高效更新并渲染合适的组件。
 2. 构建管理自身状态的封装组件，然后对其组合以构成复杂的 UI。
@@ -12,19 +12,17 @@
 
 ### install
 
-
 ```
 npx install create-react-app
 ```
 
-### 渲染DOM树
+### 渲染 DOM 树
 
 ```
 ReactDOM.render(componentToRender, targetNode)
 ```
 
-
-### JSX语法规则
+### JSX 语法规则
 
 ```
   1. 定义虚拟DOM时,不要写引号
@@ -38,7 +36,6 @@ ReactDOM.render(componentToRender, targetNode)
       2. 若大写字母开头,渲染自定义组件
 ```
 
-
 ### 创建一个无状态的函数组件
 
 ```
@@ -49,8 +46,7 @@ const DemoComponent = function() {
 };
 ```
 
-### 使用class语法创建组件
-
+### 使用 class 语法创建组件
 
 ```
 class Kitten extends React.Component {
@@ -67,7 +63,6 @@ class Kitten extends React.Component {
 ```
 
 ### 用组合的方式创建一个 React 组件
-
 
 ```
 function Welcome(props) {
@@ -88,7 +83,7 @@ ReactDOM.render(<App />, document.getElementById('root'));
 
 ```
 
-### prop传参
+### prop 传参
 
 ```
 1. const element = <Welcome name="Sara" />;
@@ -112,9 +107,7 @@ ReactDOM.render(<App />, document.getElementById('root'));
 <button onClick={this.deleteRow.bind(this, id)}>Delete Row</button>
 ```
 
-
 ### 条件渲染
-
 
 ```
 class LoginControl extends React.Component {
@@ -159,7 +152,6 @@ ReactDOM.render(
 
 ### 列表渲染
 
-
 ```
 const numbers = [1, 2, 3, 4, 5];
 const listItems = numbers.map((number) =>
@@ -170,7 +162,6 @@ const listItems = numbers.map((number) =>
 ```
 
 ### 表单
-
 
 ```
 class NameForm extends React.Component {
@@ -213,9 +204,7 @@ class NameForm extends React.Component {
 
 ```
 
-
 ### hooks
-
 
 ```
 import React, { useState } from 'react';
@@ -234,4 +223,3 @@ function Example() {
   );
 }
 ```
-
