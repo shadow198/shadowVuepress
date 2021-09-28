@@ -17,6 +17,7 @@ module.exports = {
           { text: "React", link: '/react/'},
           { text: "Node", link: '/node/'},
           { text: "WordPress", link: '/wordpress/'},
+          { text: "前端面试", link: '/fe-interview'},
         ] 
       },
       { text: "English", link: "/english/" },

@@ -8,6 +8,7 @@
 - [张鑫旭](https://www.zhangxinxu.com/wordpress/)
 - [学习CSS布局](https://zh.learnlayout.com/)
 - [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/zh-cn/)
+- [css normalize 样式初始化](https://github.com/necolas/normalize.css)
 
 ## 工具类网站
 - [box-shadow example](https://getcssscan.com/css-box-shadow-examples)

@@ -2,6 +2,7 @@
 
 - [核心概念](./main-concepts.md)
 - [Antd](./antd.md)
+- [useEffect规则](./useEffect.md)
 
 
 ##  相关资料
