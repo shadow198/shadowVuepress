@@ -8,6 +8,17 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "首页", link: "/" },
+      { text: "计算机基础",
+        items: [
+          { text: "操作系统", link: '/basic/os'},
+          { text: "计算机组成原理", link: '/basic/computer_organization'},
+          { text: "数据库", link: '/basic/database'},
+          { text: "通信原理", link: '/basic/communication'},
+          { text: "计算机网络", link: '/basic/computer_net'},
+          { text: "算法", link: '/basic/arithmetic'},
+          { text: "数据结构", link: '/basic/data_structure'},
+        ]
+      },
       { text: "前端",
         items: [
           { text: "Html", link: '/html/'},
@@ -18,6 +29,7 @@ module.exports = {
           { text: "Node", link: '/node/'},
           { text: "WordPress", link: '/wordpress/'},
           { text: "前端面试", link: '/fe-interview'},
+          { text: "前端安全", link: '/security'},
         ] 
       },
       { text: "English", link: "/english/" },
