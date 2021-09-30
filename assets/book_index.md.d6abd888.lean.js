@@ -1,0 +1,1 @@
+import{o as e,c as a,d as r}from"./app.08b99513.js";const l='{"title":"读书笔记","description":"","frontmatter":{},"headers":[{"level":2,"title":"已阅读","slug":"已阅读"},{"level":2,"title":"近期计划","slug":"近期计划"}],"relativePath":"book/index.md","lastUpdated":1632995477195}',i={},t=r('',5);i.render=function(r,l,i,h,d,o){return e(),a("div",null,[t])};export default i;export{l as __pageData};
