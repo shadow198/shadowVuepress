@@ -6,7 +6,8 @@
 
 
 ##  相关资料
-- [react官方中文](https://zh-hans.reactjs.org/)
+- [React官方中文](https://zh-hans.reactjs.org/)
+- [Nextjs 官方中文](https://www.nextjs.cn/)
 - [create-react-app官方文档](https://create-react-app.dev/)
 - [Recoil React官方状态管理库](https://recoiljs.org/zh-hans/)
 - [React17+React Hook+TS4 最佳实践](https://www.youtube.com/watch?v=vbXuHi1kMOo&list=PL5FIFxLsMtxTTxwZ3D86ymwUSZl7YR_Tr)
