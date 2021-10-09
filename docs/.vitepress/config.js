@@ -27,6 +27,7 @@ module.exports = {
           { text: "Vue", link: '/vue/'},
           { text: "React", link: '/react/'},
           { text: "Node", link: '/node/'},
+          { text: "安卓开发", link: '/android'},
           { text: "WordPress", link: '/wordpress/'},
           { text: "前端面试", link: '/fe-interview'},
           { text: "前端安全", link: '/security'},
