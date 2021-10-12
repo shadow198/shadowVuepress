@@ -13,10 +13,10 @@ module.exports = {
           { text: "操作系统", link: '/basic/os'},
           { text: "计算机组成原理", link: '/basic/computer_organization'},
           { text: "数据库", link: '/basic/database'},
-          { text: "通信原理", link: '/basic/communication'},
           { text: "计算机网络", link: '/basic/computer_net'},
           { text: "算法", link: '/basic/arithmetic'},
           { text: "数据结构", link: '/basic/data_structure'},
+          { text: "设计模式", link: '/basic/design_pattern'},
         ]
       },
       { text: "前端",
@@ -27,15 +27,22 @@ module.exports = {
           { text: "Vue", link: '/vue/'},
           { text: "React", link: '/react/'},
           { text: "Node", link: '/node/'},
+          { text: "Webpack", link: '/webpack'},
           { text: "安卓开发", link: '/android'},
           { text: "WordPress", link: '/wordpress/'},
           { text: "前端面试", link: '/fe-interview'},
           { text: "前端安全", link: '/security'},
         ] 
       },
+      {
+        text: "运维",
+        items: [
+          {text: 'Nginx', link: '/nginx'}
+        ]
+      },
       { text: "English", link: "/english/" },
       { text: "读书笔记", link: "/book/" },
-      { text: "开源项目", link: "/open-source/" },
+      { text: "技术导航", link: "/open-source/" },
       { text: "About", link: "/about/" },
     ],
     sidebar: {
