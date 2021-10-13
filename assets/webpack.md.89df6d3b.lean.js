@@ -1,1 +1,0 @@
-import{o as n,c as s,a}from"./app.c4e202e6.js";const p='{"title":"Webpack","description":"","frontmatter":{},"headers":[{"level":2,"title":"核心概念","slug":"核心概念"}],"relativePath":"webpack.md","lastUpdated":1634024141885}',t={},o=a('',3);t.render=function(a,p,t,e,c,l){return n(),s("div",null,[o])};export default t;export{p as __pageData};
