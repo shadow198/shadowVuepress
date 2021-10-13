@@ -1,5 +1,8 @@
 # JS学习
 
+## 学习笔记
+- [event loop](./event_loop.md)
+
 ## 相关站点
 
 - [MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
