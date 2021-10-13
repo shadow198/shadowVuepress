@@ -35,6 +35,12 @@ module.exports = {
         ] 
       },
       {
+        text: '设计',
+        items: [
+          {text: 'figma', link: '/figma'}
+        ]
+      },
+      {
         text: "运维",
         items: [
           {text: 'Nginx', link: '/nginx'}
