@@ -27,6 +27,8 @@ module.exports = {
           { text: "Vue", link: '/vue/'},
           { text: "React", link: '/react/'},
           { text: "Node", link: '/node/'},
+          { text: "微信小程序开发", link: "/miniprogram"},
+          { text: "微信公众号开发", link: "/fe/offiaccount"},
           { text: "Webpack", link: '/webpack'},
           { text: "安卓开发", link: '/android'},
           { text: "WordPress", link: '/wordpress/'},
