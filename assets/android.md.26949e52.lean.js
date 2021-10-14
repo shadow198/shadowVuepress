@@ -1,1 +1,0 @@
-import{o as e,c as r,a}from"./app.fa05f52b.js";const t='{"title":"安卓开发","description":"","frontmatter":{},"headers":[{"level":2,"title":"相关网站","slug":"相关网站"}],"relativePath":"android.md","lastUpdated":1634140148333}',d={},l=a('',3);d.render=function(a,t,d,n,h,i){return e(),r("div",null,[l])};export default d;export{t as __pageData};
