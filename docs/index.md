@@ -12,5 +12,5 @@ features:
   details: 记录读书心得,所感所悟
 - title: 开源项目推荐
   details: 实用开源项目推荐
-footer: MIT Licensed | Copyright © 2018-present Evan You
+footer:  京ICP备19035949号-1
 ---
