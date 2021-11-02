@@ -46,7 +46,9 @@ module.exports = {
       {
         text: "运维",
         items: [
-          {text: 'Nginx', link: '/nginx'}
+          {text: 'Nginx', link: '/ops/nginx'},
+          {text: 'Docker', link: '/ops/docker'},
+          {text: 'Vercel', link: '/ops/vercel'}
         ]
       },
       { text: "English", link: "/english/" },
