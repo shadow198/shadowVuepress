@@ -1,1 +1,0 @@
-import{o as l,c as i,a as p}from"./app.a2fe2477.js";const u='{"title":"读《高效程序员的45个习惯》","description":"","frontmatter":{},"relativePath":"book/45-habit.md","lastUpdated":1635863557363}',t={},o=p('',3);t.render=function(p,u,t,s,r,g){return l(),i("div",null,[o])};export{u as __pageData,t as default};

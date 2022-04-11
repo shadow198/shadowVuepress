@@ -1,1 +1,0 @@
-import{o as e,c as a,a as l}from"./app.a2fe2477.js";const o='{"title":"微信公众号开发","description":"","frontmatter":{},"headers":[{"level":2,"title":"两种服务模式","slug":"两种服务模式"}],"relativePath":"fe/offiaccount.md","lastUpdated":1635863557363}',t={},i=l('',6);t.render=function(l,o,t,r,n,d){return e(),a("div",null,[i])};export{o as __pageData,t as default};
