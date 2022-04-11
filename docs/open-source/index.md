@@ -1,5 +1,8 @@
 # 网站类型
 
+## 快速开发框架
+- [若依](https://www.ruoyi.vip)
+
 ## 企业官网
 
 - [WordPress 中文](https://cn.wordpress.org/)
