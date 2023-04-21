@@ -4,7 +4,10 @@ const primarySidebar = [
 ]
 module.exports = {
   title: "Shadow Blog", // appended to all page titles
-  description: 'shadow的个人博客',
+  description: 'shadow的个人博客, 记录前端的HTML、CSS，JavaScript等知识点， 记录编程心得，学习笔记，有用的工具，读书笔记等',
+  head: [
+    ['meta', { name: 'keywords', content: 'shadowBlog,shadow Blog, FE, 前端, HTML, CSS,JavaScript, Vue, React, 编辑学习' }]
+  ],
   themeConfig: {
     nav: [
       { text: "首页", link: "/" },
@@ -27,6 +30,8 @@ module.exports = {
           { text: "Vue", link: '/vue/'},
           { text: "React", link: '/react/'},
           { text: "Node", link: '/node/'},
+          { text: "Electron", link: '/electron/'},
+          { text: "uniAPP", link: '/uniAPP/'},
           { text: "数据可视化", link: '/fe/data_visualization'},
           { text: "微信小程序开发", link: "/miniprogram"},
           { text: "微信公众号开发", link: "/fe/offiaccount"},
