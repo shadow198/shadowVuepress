@@ -1,0 +1,1 @@
+import{o as e,c as r,a}from"./app.1b796cd1.js";const t='{"title":"学习笔记","description":"","frontmatter":{},"headers":[{"level":2,"title":"学习笔记","slug":"学习笔记"},{"level":2,"title":"相关资料","slug":"相关资料"}],"relativePath":"react/index.md","lastUpdated":1682066958440}',l={},i=a('',4);l.render=function(a,t,l,n,o,h){return e(),r("div",null,[i])};export{t as __pageData,l as default};

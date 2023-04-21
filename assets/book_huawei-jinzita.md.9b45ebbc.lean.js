@@ -1,1 +1,0 @@
-import{o as p,c as e,a as i}from"./app.a2fe2477.js";const a='{"title":"","description":"","frontmatter":{},"relativePath":"book/huawei-jinzita.md","lastUpdated":1664080492023}',r={},o=i("",35);r.render=function(i,a,r,t,n,P){return p(),e("div",null,[o])};export{a as __pageData,r as default};
