@@ -49,6 +49,12 @@ module.exports = {
         ]
       },
       {
+        text: 'ChatGPT',
+        items: [
+          {text: '资料', link: '/chatGPT/index'}
+        ]
+      },
+      {
         text: "运维",
         items: [
           {text: 'Nginx', link: '/ops/nginx'},
