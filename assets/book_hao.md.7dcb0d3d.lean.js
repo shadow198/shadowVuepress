@@ -1,1 +1,0 @@
-import{o as p,c as a,a as e}from"./app.45dfcc25.js";const o='{"title":"","description":"","frontmatter":{},"relativePath":"book/hao.md","lastUpdated":1682395338638}',t={},d=e("",38);t.render=function(e,o,t,r,C,i){return p(),a("div",null,[d])};export{o as __pageData,t as default};

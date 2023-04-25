@@ -1,1 +1,0 @@
-import{o as t,c as e,a as r}from"./app.45dfcc25.js";const a='{"title":"ChatGPT","description":"","frontmatter":{},"relativePath":"ChatGPT/index.md","lastUpdated":1682395338634}',p={},h=r('',9);p.render=function(r,a,p,o,n,s){return t(),e("div",null,[h])};export{a as __pageData,p as default};
