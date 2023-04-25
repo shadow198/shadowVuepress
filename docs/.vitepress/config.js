@@ -51,7 +51,7 @@ module.exports = {
       {
         text: 'ChatGPT',
         items: [
-          {text: '资料', link: '/chatGPT/index'}
+          {text: '资料', link: '/ChatGPT/index'}
         ]
       },
       {
