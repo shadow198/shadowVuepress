@@ -1,22 +1,22 @@
 # ChatGPT
 
-注册： 可使用自己的邮箱尽量使用谷歌或微软邮箱，国外接码平台来注册
-接码平台 https://sms-activate.org/getNumber 
+### 注册： 可使用自己的邮箱尽量使用谷歌或微软邮箱，国外接码平台来注册
+### 接码平台 https://sms-activate.org/getNumber 
 
-官网 https://chat.openai.com/chat 
+### 官网 https://chat.openai.com/chat 
 
-注册及Plus教程 https://chatgpt-plus.github.io/chatgpt-plus/
+### 注册及Plus教程 https://chatgpt-plus.github.io/chatgpt-plus/
 https://chatgpt-plus.github.io/ 
 
-ClickPrompt https://www.clickprompt.org/zh-CN/ 
+### ClickPrompt https://www.clickprompt.org/zh-CN/ 
 
-github在线体验列表
+### github在线体验列表
 https://github.com/weekend-project-space/chatgpt-sites
 
-ChatGPT 提示模式：提高代码质量、重构、需求获取和软件设计
+### ChatGPT 提示模式：提高代码质量、重构、需求获取和软件设计
 https://mp.weixin.qq.com/s/smbsScFbCT3Ci7mGF5uxPA
 
-如何提问
+### 如何提问
 https://github.com/f/awesome-chatgpt-prompts
 http://yesaiwen.com/art-of-asking-chatgpt-for-high-quality-answ-engineering-techniques/
 
