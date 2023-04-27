@@ -3,6 +3,10 @@
 ### 注册： 可使用自己的邮箱尽量使用谷歌或微软邮箱，国外接码平台来注册
 ### 接码平台 https://sms-activate.org/getNumber 
 
+### 国内免翻墙使用（免费用共享key，也可以购买收费的）：  https://175.178.88.119/#/ChatHome
+
+### 在线购买账号平台(可省去注册的繁琐步骤) https://www.naifeibus.top/#/
+
 ### 官网 https://chat.openai.com/chat 
 
 ### 注册及Plus教程 https://chatgpt-plus.github.io/chatgpt-plus/
