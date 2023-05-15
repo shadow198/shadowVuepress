@@ -1,0 +1,16 @@
+import{o as e,g as n,G as a}from"./framework.e6884fad.js";const u='{"title":"Electron","description":"","frontmatter":{},"headers":[{"level":2,"title":"\u5B98\u7F51","slug":"\u5B98\u7F51"},{"level":2,"title":"\u57FA\u4E8Evue2\u9879\u76EE\u6539\u9020","slug":"\u57FA\u4E8Evue2\u9879\u76EE\u6539\u9020"},{"level":2,"title":"\u8BBE\u7F6E\u5168\u5C4F","slug":"\u8BBE\u7F6E\u5168\u5C4F"},{"level":2,"title":"\u9690\u85CF\u83DC\u5355\u680F","slug":"\u9690\u85CF\u83DC\u5355\u680F"}],"relativePath":"electron/index.md","lastUpdated":1684145589861}',t={},s=a(`<h1 id="electron"><a class="header-anchor" href="#electron" aria-hidden="true">#</a> Electron</h1><h2 id="\u5B98\u7F51"><a class="header-anchor" href="#\u5B98\u7F51" aria-hidden="true">#</a> \u5B98\u7F51</h2><p><a href="https://www.electronjs.org/zh/" target="_blank" rel="noopener noreferrer">https://www.electronjs.org/zh/</a></p><h2 id="\u57FA\u4E8Evue2\u9879\u76EE\u6539\u9020"><a class="header-anchor" href="#\u57FA\u4E8Evue2\u9879\u76EE\u6539\u9020" aria-hidden="true">#</a> \u57FA\u4E8Evue2\u9879\u76EE\u6539\u9020</h2><p><a href="https://wangdaodao.com/20200707/vue-cli3-electron.html" target="_blank" rel="noopener noreferrer">https://wangdaodao.com/20200707/vue-cli3-electron.html</a></p><h1 id="\u6253\u5305\u4F9D\u8D56\u4E0B\u8F7D\u62A5\u9519\u89E3\u51B3"><a class="header-anchor" href="#\u6253\u5305\u4F9D\u8D56\u4E0B\u8F7D\u62A5\u9519\u89E3\u51B3" aria-hidden="true">#</a> \u6253\u5305\u4F9D\u8D56\u4E0B\u8F7D\u62A5\u9519\u89E3\u51B3</h1><p><a href="https://blog.csdn.net/cctvcqupt/article/details/87904368" target="_blank" rel="noopener noreferrer">https://blog.csdn.net/cctvcqupt/article/details/87904368</a></p><h2 id="\u8BBE\u7F6E\u5168\u5C4F"><a class="header-anchor" href="#\u8BBE\u7F6E\u5168\u5C4F" aria-hidden="true">#</a> \u8BBE\u7F6E\u5168\u5C4F</h2><div class="language-"><pre><code>function createWindow(){
+    win = new BrowserWindow({
+    fullscreen:true,
+    webPreferences: {
+    nodeIntegration: true
+    }});
+    win.loadFile(&#39;index.html&#39;);
+    win.on(&#39;closed&#39;,()=&gt;{
+        console.log(&#39;closed&#39;);
+    win = null;
+    });
+}
+</code></pre></div><h2 id="\u9690\u85CF\u83DC\u5355\u680F"><a class="header-anchor" href="#\u9690\u85CF\u83DC\u5355\u680F" aria-hidden="true">#</a> \u9690\u85CF\u83DC\u5355\u680F</h2><div class="language-js"><pre><code><span class="token keyword">const</span> electron <span class="token operator">=</span> <span class="token function">require</span><span class="token punctuation">(</span><span class="token string">&#39;electron&#39;</span><span class="token punctuation">)</span> <span class="token comment">/*\u83B7\u53D6electron\u7A97\u4F53\u7684\u83DC\u5355\u680F*/</span> 
+<span class="token keyword">const</span> Menu <span class="token operator">=</span> electron<span class="token punctuation">.</span>Menu <span class="token comment">/*\u9690\u85CFelectron\u521B\u542C\u7684\u83DC\u5355\u680F*/</span> 
+Menu<span class="token punctuation">.</span><span class="token function">setApplicationMenu</span><span class="token punctuation">(</span><span class="token keyword">null</span><span class="token punctuation">)</span>
+</code></pre></div>`,11);function r(o,c,l,p,i,d){return e(),n("div",null,[s])}t.render=r;export{u as __pageData,t as default};
