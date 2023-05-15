@@ -6,7 +6,7 @@ module.exports = {
   title: "Shadow Blog", // appended to all page titles
   description: 'shadow的个人博客, 记录前端的HTML、CSS，JavaScript等知识点， 记录编程心得，学习笔记，有用的工具，读书笔记等',
   head: [
-    ['meta', { name: 'keywords', content: 'shadowBlog,shadow Blog, FE, 前端, HTML, CSS,JavaScript, Vue, React, 编辑学习' }]
+    ['meta', { name: 'keywords', content: 'shadowBlog,shadow Blog, FE, 前端, ChatGPT, Vercel, HTML, CSS,JavaScript, Vue, React, 编辑学习' }]
   ],
   themeConfig: {
     nav: [

@@ -7,7 +7,7 @@
  
 2. 基础脚手架(路由 -> uni-simple-router, ui框架 -> uview2.0, api请求 -> uview自带api请求, 图标 -> Iconfont, 列表 -> ZPaging)  https://ext.dcloud.net.cn/plugin?id=4797
 
-
+3. 基础脚手架 https://ext.dcloud.net.cn/plugin?id=2009
    
 ## ui
 1. [uview](https://www.uviewui.com/)

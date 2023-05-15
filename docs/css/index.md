@@ -17,6 +17,7 @@
 - [Free web tools for speed up your development (css generator)](https://angrytools.com/)
 - [各种Hover效果](http://ianlunn.github.io/Hover/)
 - [各种类型的布局demo](https://csslayout.io/)
+- [imagePlaceholder](https://placehold.co/)
 
 ### UI框架
 - [tailwind](https://www.tailwindcss.cn/docs)
