@@ -1,1 +1,0 @@
-import{o as l,g as i,G as p}from"./framework.e6884fad.js";const _='{"title":"\u8BFB\u300A\u9AD8\u6548\u7A0B\u5E8F\u5458\u768445\u4E2A\u4E60\u60EF\u300B","description":"","frontmatter":{},"relativePath":"book/45-habit.md","lastUpdated":1684145589861}',t={},u=p('',3);function o(s,r,n,g,e,a){return l(),i("div",null,[u])}t.render=o;export{_ as __pageData,t as default};

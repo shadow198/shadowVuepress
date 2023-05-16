@@ -1,0 +1,1 @@
+import{o as p,g as e,G as a}from"./framework.e6884fad.js";const l='{"title":"","description":"","frontmatter":{},"relativePath":"book/huawei-jinzita.md","lastUpdated":1684201617048}',o={},t=a("",35);function i(r,n,c,_,P,d){return p(),e("div",null,[t])}o.render=i;export{l as __pageData,o as default};
