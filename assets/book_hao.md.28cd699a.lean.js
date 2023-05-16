@@ -1,0 +1,1 @@
+import{o as p,g as a,G as e}from"./framework.e6884fad.js";const l='{"title":"","description":"","frontmatter":{},"relativePath":"book/hao.md","lastUpdated":1684203866043}',o={},t=e("",38);function _(r,d,n,i,s,c){return p(),a("div",null,[t])}o.render=_;export{l as __pageData,o as default};
